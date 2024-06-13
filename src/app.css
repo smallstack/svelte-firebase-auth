@@ -1,0 +1,7 @@
+:root {
+	--rounded-box: 4px;
+	--rounded-btn: 4px;
+}
+.label-text {
+	font-weight: 500;
+}
